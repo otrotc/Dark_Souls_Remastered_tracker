@@ -2920,7 +2920,7 @@
     {
     "name": "canReachFirelinkShrineDomhnallOfZena",
     "access_rules": [
-        "@canReachFirelinkShrine, @canReachDepths, @canReachUndeadParishBellGargoyles, @canReachLowerBlighttownAfterQuelaag"
+        "@canReachFirelinkShrine, @canReachUndeadParishBellGargoyles, @canReachLowerBlighttownAfterQuelaag"
     ]},
     {
     "name": "canReachDepthstoBlighttownDoor",
